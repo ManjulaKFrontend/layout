@@ -1,0 +1,475 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    height: 15vh;
+    width: 100%;
+    background-color: dodgerblue;
+
+}
+.logo{
+        height: 8vh;
+    width: 5vw;
+    background-color:grey;
+ 
+   margin-left: 50px;
+ margin-top: -80px;
+   
+}
+.navlinks{
+    height: 8vh;
+    width: 70%;
+    background-color: grey;
+    margin-left: 20%;
+    margin-top: -50px;
+}
+main{
+    height: 80vh;
+    width: 100%;
+    background-color: aquamarine;
+   margin-top: 27px;
+   position: relative;
+
+}
+.container{
+    height: 70vh;
+    width: 90%;
+    background-color: grey;
+   margin-top: -500px;
+   margin-left: 50px;
+   position: absolute;
+}
+.h1{
+    height: 6vh;
+    width: 18vw;
+    background-color:aquamarine;
+    position: absolute;
+    margin-top: -400px;
+    margin-left: 300px;
+}
+.p1{
+    height: 10vh;
+    width: 45vw;
+    background-color: aquamarine;
+    position: absolute;
+    margin-top: -340px;
+    margin-left:140px ;
+}
+.btn1{
+    height: 6vh;
+    width: 12vw;
+    background-color: aquamarine;
+    position: absolute;
+    margin-top: -260px;
+    margin-left:330px ;
+    border: none;
+}
+.container1{
+    background-color: grey;
+    height: 300px;
+    width: 650px;
+    margin-left: 20px;
+    border:1px solid black;
+}
+.img1{
+    background-color: aquamarine;
+    height: 250px;
+    width: 600px;
+    margin-top:20px ;
+    margin-left: 20px;
+}
+.container2{
+    background-color: grey;
+    border: 1px solid black;
+    height: 300px;
+    width: 660px;
+    margin-left: 671px;
+    margin-top:-300px ;
+}
+.box2{
+    background-color: aquamarine;
+    height:260px ;
+    width:600px;
+    margin-left:25px ;
+    margin-top: 20px;
+    position: relative;
+}
+.h2{
+    position: absolute;
+height: 6vh;
+width: 16vw;
+background-color: black;
+margin-left: 220px;
+margin-top: -220px;
+}
+.p2{
+    background-color: black;
+    height: 10vh;
+    width: 35vw;
+    margin-left:100px;
+    margin-top:-150px ;
+    position: absolute;
+}
+.btn2{
+    position:absolute;
+    height: 6vh;
+    width: 8vw;
+    background-color:black;
+
+    border: none;
+    margin-top:-60px;
+margin-left: 270px;
+
+}
+.icon1{
+background-color: darkcyan;
+height: 200px;
+width: 320px;
+margin-left: 20px;
+border: 1px solid black;
+position: relative;
+}
+.icon2{
+    background-color: darkcyan;
+    height: 200px;
+    width: 330px;
+    margin-left: 340px;
+    border: 1px solid black;
+    margin-top: -200px;
+    position: relative;
+}
+.icon3{
+    
+        background-color: darkcyan;
+        height: 200px;
+        width: 320px;
+        margin-left: 670px;
+        margin-top: -200px;
+        border: 1px solid black;
+        position: relative;
+        
+
+}
+.icon4{
+    background-color: darkcyan;
+    height: 200px;
+    width: 341px;
+    margin-left: 990px;
+    margin-top: -200px;
+    border: 1px solid black;
+    position: relative;
+}
+.ico{
+    background-color:grey;
+    height: 25vh;
+    width: 20vw;
+    margin-top:5px ;
+    margin-left: 10px;
+    position: relative;
+}
+.h3{
+    background-color:black;
+    height: 6vh;
+    width: 15vw;
+   position: absolute;
+ margin-top: -90px;
+    margin-left: 40px;
+}
+.p3{
+    background-color: black;
+    height: 4vh;
+    width: 10vw;
+    margin-left: 70px;
+    position: absolute;
+    margin-top: -40px;
+}
+.head1{
+    background-color:dodgerblue;
+    height: 15vh;
+    width: 97%;
+    margin-left: 20px;
+    border: 1px solid black;
+}
+.headi{
+    background-color: grey;
+    height: 5vh;
+    width: 12vw;
+    margin-left: 30px;
+    margin-top: -80px;
+    position: absolute;
+}
+.headh{
+    background-color:grey;
+    height: 4vh;
+    width: 12vw;
+    margin-left:30px;
+    margin-top: -30px;
+    position: absolute;
+  
+}
+.coffee1{
+    background-color: aquamarine;
+    height: 200px;
+    width: 437px;
+    margin-left: 20px;
+    border: 1px solid black;
+    position: relative;
+}
+.coffee2{
+    background-color: aquamarine;
+    height: 200px;
+    width: 437px;
+    margin-left: 457px;
+    border: 1px solid black;
+    margin-top:-200px;
+}
+.coffee3{
+    background-color: aquamarine;
+    height: 200px;
+    width: 436px;
+    border: 1px solid black;
+    margin-left:894px;
+    margin-top: -200px;
+}
+.coffee4{
+    background-color: aquamarine;
+    height: 200px;
+    width: 437px;
+    margin-left: 20px;
+    border: 1px solid black;
+    position: relative;
+}
+.coffee5{
+    background-color: aquamarine;
+    height: 200px;
+    width: 437px;
+    margin-left: 457px;
+    border: 1px solid black;
+    margin-top:-200px;
+}
+.coffee6{
+    background-color: aquamarine;
+    height: 200px;
+    width: 436px;
+    border: 1px solid black;
+    margin-left:894px;
+    margin-top: -200px;
+}
+.cof{
+    height: 25vh;
+    width: 25vw;
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color: grey;
+}
+.coff{
+    height: 5vh;
+    width: 13vw;
+    margin-top: -40px;
+    margin-left: 100px;
+    background-color: black;
+}
+.image1{
+    background-color: aquamarine;
+    height: 200px;
+    width: 437px;
+    margin-left: 20px;
+    border: 1px solid black;
+    position: relative;
+}
+.image2{
+    background-color: aquamarine;
+    height: 200px;
+    width: 437px;
+    margin-left: 457px;
+    border: 1px solid black;
+    margin-top:-200px;
+}
+.image3{
+    background-color: aquamarine;
+    height: 200px;
+    width: 436px;
+    border: 1px solid black;
+    margin-left:894px;
+    margin-top: -200px;
+}
+.image4{
+    background-color: aquamarine;
+    height: 200px;
+    width: 437px;
+    margin-left: 20px;
+    border: 1px solid black;
+    position: relative;
+}
+.image5{
+    background-color: aquamarine;
+    height: 200px;
+    width: 437px;
+    margin-left: 457px;
+    border: 1px solid black;
+    margin-top:-200px;
+}
+.image6{
+    background-color: aquamarine;
+    height: 200px;
+    width: 436px;
+    border: 1px solid black;
+    margin-left:894px;
+    margin-top: -200px;
+}
+.img{
+    height: 25vh;
+    width: 25vw;
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color: grey;
+}
+.image1{
+    background-color: aquamarine;
+    height: 200px;
+    width: 437px;
+    margin-left: 20px;
+    border: 1px solid black;
+    position: relative;
+}
+.image2{
+    background-color: aquamarine;
+    height: 200px;
+    width: 437px;
+    margin-left: 457px;
+    border: 1px solid black;
+    margin-top:-200px;
+}
+.image3{
+    background-color: aquamarine;
+    height: 200px;
+    width: 436px;
+    border: 1px solid black;
+    margin-left:894px;
+    margin-top: -200px;
+}
+.image4{
+    background-color: aquamarine;
+    height: 200px;
+    width: 437px;
+    margin-left: 20px;
+    border: 1px solid black;
+    position: relative;
+}
+.image5{
+    background-color: aquamarine;
+    height: 200px;
+    width: 437px;
+    margin-left: 457px;
+    border: 1px solid black;
+    margin-top:-200px;
+}
+.image6{
+    background-color: aquamarine;
+    height: 200px;
+    width: 436px;
+    border: 1px solid black;
+    margin-left:894px;
+    margin-top: -200px;
+}
+.img{
+    height: 25vh;
+    width: 25vw;
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color: grey;
+}
+
+.imgg{
+    height: 5vh;
+    width: 13vw;
+    margin-top: -40px;
+    margin-left: 100px;
+    background-color: black;
+}
+.h4{
+   background-color: black;
+   height:5vh;
+   width: 10vw; 
+   margin-left: 200px;
+   margin-top: -240px;
+   position: absolute;
+}
+.p4{
+    background-color: black;
+    height:4vh;
+    width: 20vw; 
+    margin-left: 130px;
+    margin-top: -200px;
+    position: absolute;
+}
+.p5{
+    background-color: black;
+    height:4vh;
+    width: 20vw; 
+    margin-left: 130px;
+    margin-top: -165px;
+    position: absolute;
+}
+.p6{
+    background-color: black;
+    height:4vh;
+    width: 20vw; 
+    margin-left: 130px;
+    margin-top: -130px;
+    position: absolute;
+}
+.btn3{
+    background-color: black;
+    height: 5vh;
+    width: 7vw;
+    margin-left: 220px;
+    margin-top: -90px;
+    position: absolute;
+    border: none;
+}
+.eicon{
+    height: 10vh;
+    width: 15vh;
+    background-color: black;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.email{
+    height: 5vh;
+    width: 10vw;
+    background-color: black;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.line1{
+    height: 5vh;
+    width: 20vw;
+    background-color: black;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.line2{
+    height: 5vh;
+    width: 20vw;
+    background-color: black;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.head5{
+    background-color: dodgerblue;
+    height: 15vh;
+    width: 97%;
+    margin-left: 20px;
+    border:1px solid black;
+    position: relative;
+}
+.headd5{
+    background-color: grey;
+    height: 5vh;
+    width: 25vw;
+    margin-top: 40px;
+    margin-left: 450px;
+}
